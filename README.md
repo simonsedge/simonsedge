@@ -1,4 +1,4 @@
-# hello world
+## hello world
 
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
@@ -8,7 +8,7 @@
 
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2).
 
-# hello galaxy
+## hello galaxy
 
 <details>
    <summary>what were you doing when you were ]0, 27] years old? </summary>
@@ -116,7 +116,7 @@ later this year will decide whether to join the 42 school network, offering a so
 
 </details>
 
-# hello universe
+## hello universe
 
 <details>
   <summary>what are you focused on right now? </summary>
