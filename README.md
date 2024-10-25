@@ -10,7 +10,7 @@
 i don't know much but i know:
 
 - i knew almost all if not all car and bike brands at 2-3 yrs old
-- independent personality, first begging my mum to wander about my myself in the streets at around 4-5 years old
+- had an independent personality, first begging my mum to wander about my myself in the streets at around 4-5 years old
 - used to sell my picturesque (dragons, fire, mythical creatures, etc) paintings at 5-6 years old to my friends' parents
 - at 8 when i noticed a larger group of neighbors would buy their groceries at a given time and day of the week, i would push the emergency button in the building's elevator when i saw the first batch comeback so i could charge to help them carry their groceries
 
