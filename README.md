@@ -5,7 +5,7 @@
 <details>
    <summary>what were you doing when you were ]0, 27] years old? </summary>
 
-## 0-8 years old | "i must not be stupid right?"
+## 0-8 years old 
 
 i don't know much but i know:
 
@@ -15,7 +15,7 @@ i don't know much but i know:
 - used to sell my picturesque (dragons, fire, mythical creatures, etc) paintings at 5-6 years old to my friends' parents
 - at 8 when i noticed a larger group of neighbors would go buy groceries at a given time and day, i would push the emergency button in the building's elevator when i saw the first batch comeback so i could charge to help them carry their groceries
 
-## 9-14 years old | "chess is pretty interesting"
+## 9-14 years old
 
 i just wanted to spend my time trying to improve myself doing multiple activities and trying out different ways to make money.
 
@@ -29,7 +29,7 @@ so when i wasn't getting in trouble doing stupid stuff with the neighborhood kid
 
 ended up winning the state's blitz chess championship under 14 and once travelled to madrid to apply for a mensa membership since the problems i liked to do were harder than typical IQ tests.
 
-## 15-18 years old | "i like maths and money, now what?"
+## 15-18 years old
 
 changed schools, started an e-commerce clothing reselling business. made some money from that and general reselling and that was the first business i had (vs systematic gigs/questionable one-timers lol).
 
@@ -43,7 +43,7 @@ so because i had a perfect maths score and my high school average was good, i wa
 
 in retrospect, without a doubt, i should've decided on computer science/software engineering or maths for my bachelors degree.
 
-## 19-24 years old | "i want to travel the least travelled roads"
+## 19-24 years old
 
 the subjects i would naturally enjoy studying were calculus I, II, and linear algebra. also had appreciation for data analysis and probability, statistics for economics, and finance.
 
@@ -65,7 +65,7 @@ here my nomad journey began and location independence to me became a relevant to
 
 at this point i was also trying to get familiar with HTML, programmatic SEO, and other software development topics.
 
-## 25-27 years old (now) | "i'm writing so much now i must have forgot a lot of details about the past"
+## 25-27 years old (now)
 
 at my then first job i kept on accepting more freelancing work to maximise income, which led me to accept a 2nd job.
 
