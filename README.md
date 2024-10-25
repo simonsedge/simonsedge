@@ -109,7 +109,7 @@ later this year will decide whether to join the 42 school network, offering a so
 </details>
 
 <details>
-  <summary>what are you focusing on right now? </summary>
+  <summary>what are you focused on right now? </summary>
 
 ## Business
 ## Engineering (Software/Financial)
