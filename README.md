@@ -1,3 +1,5 @@
+# hello world
+
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
 🤝 Simon / Simão / Simón / Simone here.
@@ -5,6 +7,8 @@
 - European-born slow-travel nomad (≥3 months/country) from a non-engineering background, gradually building technical knowledge and experience in a blend of data science and software engineering to meet personal interests/needs and goals.
 
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2).
+
+# hello galaxy
 
 <details>
    <summary>what were you doing when you were ]0, 27] years old? </summary>
@@ -111,6 +115,8 @@ however, i know for a fact i'm improving myself and my skills. i'm gathering too
 later this year will decide whether to join the 42 school network, offering a solid (no bootcamp) alternative to a bachelors in software engineering with the benefits that it's peer-to-peer-figure-it-out-by-reading-the-freaking-documentation style and i can change campuses. right now i still have a few reservations about certain details, but seems like a viable option since it's primarily self-directed (excl. structure and evaluation) i could continue the studies independently if necessary.
 
 </details>
+
+# hello universe
 
 <details>
   <summary>what are you focused on right now? </summary>
