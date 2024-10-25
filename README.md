@@ -4,7 +4,7 @@
 
 🤝 Simon / Simão / Simón / Simone here.
 
-- European-born slow-travel nomad (≥3 months/country) from a non-engineering background, gradually building technical knowledge and experience in a blend of data science and software engineering to meet personal interests/needs and goals.
+- European-born slow-travel nomad (3-12 months/country) from a non-engineering background, gradually building technical knowledge and experience in a blend of data science and software engineering to meet personal interests/needs and goals.
 
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2).
 
