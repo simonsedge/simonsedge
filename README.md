@@ -1,6 +1,10 @@
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
-🤝 I'm Simon / Simão / Simón / Simone.
+🤝 Simon / Simão / Simón / Simone here.
+
+European-born slow-travel nomad (≥3 months/country) from a non-engineering background, gradually building technical knowledge and experience in a blend of data science and software engineering to meet personal interests/needs and goals.
+
+Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2).
 
 <details>
    <summary>what were you doing when you were ]0, 27] years old? </summary>
@@ -10,15 +14,15 @@
 i don't know much but i know:
 
 - i knew almost all if not all car and bike brands at 2-3 yrs old
-- had an independent personality, first begging my mum to wander about my myself in the streets at around 4-5 years old
+- had an independent personality, begging my mum to wander the streets on my own around age 4-5
 - used to sell my picturesque (dragons, fire, mythical creatures, etc) paintings at 5-6 years old to my friends' parents
-- at 8 when i noticed a larger group of neighbors would buy their groceries at a given time and day of the week, i would push the emergency button in the building's elevator when i saw the first batch comeback so i could charge to help them carry their groceries
+- at 8 when i noticed a larger group of neighbors would buy their groceries at a given time and day of the week, i would press the emergency button in the building's elevator when i saw the first batch returning, so i could charge to help them carry their groceries for a fee
 
 ## 9-14 years old
 
 i just wanted to spend my time trying to improve myself doing multiple activities and trying out different ways to make money.
 
-i was in a tricky spot as my grandparents were paying for premium education (often #1 best school in the country) for my brother and I, but our single mother didn't have a penny so to speak.
+i was in a tricky spot as my grandparents were funding premium education (often top school in the country) for my brother and I, but our single mother didn't have a penny so to speak.
 
 i remember i liked collecting zippo lighters and i needed at least 20€/week just for that.
 
@@ -38,7 +42,7 @@ finished high school maths with perfect 20/20 grade (weighted average of 3-year 
 
 thought about studying mathematics, but i wasn't so keen on going to college so i wanted something that would open some doors in the future and not demand too much of my time.
 
-so because i had a perfect maths score and my high school average was good, i was accepted in the most prestigious finance university in the country - this was certainly a factor in deciding to enroll in college as i felt it was an opportunity not anyone could have.
+so because i had a perfect maths score and my high school average was good, i was accepted into the country's most prestigious finance university in the country, which definitely influenced my decision to enroll, as i saw it as an opportunity of dificult access.
 
 in retrospect, without a doubt, i should've decided on computer science/software engineering or maths for my bachelors degree.
 
@@ -46,7 +50,7 @@ in retrospect, without a doubt, i should've decided on computer science/software
 
 the subjects i would naturally enjoy studying were calculus I, II, and linear algebra. also had appreciation for data analysis and probability, statistics for economics, and finance.
 
-while studying linear algebra during my first year i got so absorbed in matrices and eigenvalues studying advanced linear algebra that i ended up optimizing output vs gram-schmidt orthogonalization, a concept we were studing in linear algebra at a superficial level.
+while studying linear algebra during my first year i became so absorbed in understanding the deeper meaning of matrices and eigenvalues in advanced linear algebra that i ended up getting to an optimized output vs Gram-Schmidt orthogonalization, a concept we were studing at a superficial level.
 
 after that the adjunct maths professor spent 3 months proving my conclusions as i couldn't do it on my own and offered me a chance to write a paper with him. however, he only got back to me about a year and change later when my focus was already way outside maths. years later though i tried reaching out to him to do it but this time he was the one who was unavailable, but at least i got an excellent reference letter from it which mentions this event.
 
@@ -68,7 +72,7 @@ at this point i was also trying to get familiar with HTML, programmatic SEO, and
 
 at my then first job i kept on accepting more freelancing work to maximise income, which led me to accept a 2nd job.
 
-i overestimated my capabilities with everything i needed to do, not only related but unrelated to the job, and was released from my 1st job. however, got another right after doing something i liked a lot which was conversion rate optimization. in the simplest way possible, my job was to figure out what we wanted customers to do, then look at data and break down journey components step by step, then test improvements to each step, and go back to look at data and check if there were improvements. from that you get multiple ideas of funnels you can create and inumerous monetization possibilities - this appealed to me as a skill not only needed in practically all businesses, but was also relevant from an entrepreneurial perspective if i ever decided to go that route.
+i overestimated my capabilities with everything i needed to do, not only related but unrelated to the job, and was released from my 1st job. however, got another right after doing something i liked a lot which was conversion rate optimization. in simple terms, my job was to identify the desired customer actions, analyse data to break down journey components setp-by-setp, test improvements for each, and then re-evaluate the data to verify enhancements.
 
 also landed a fractional CMO position in another VC-funded startup not much later.
 
@@ -104,7 +108,7 @@ i understand i probably won't be at the top 10% skillset in almost all areas i w
 
 however, i know for a fact i'm improving myself and my skills. i'm gathering tools to increase my range of opportunity and the effects are clear - i feel more powerful everyday with the knowledge i implement. i can now build personal tools i couldn't in the past even with the help of top-tier AI coding agents. i can now try and explore data-driven edges in the cryptocurrency markets and building almost fully automated (harder to fully automate and not have any significant discretionary input for desired output prediction. typical arbitrage strats revolve around high frequency trading, which is not my focus) profitable trading strategies.
 
-later this year will decide whether to join the 42 school network, offering a solid (no bootcamp) alternative to a bachelors in software engineering with the benefits that it's peer-to-peer-figure-it-out-by-reading-the-freaking-documentation style and i can change campuses. right now i still have some doubts whether some details will work out but it does look like a viable option and since it's mainly self-directed anyway (apart from structure and evaluation) i could keep on with the studies by myself, if need be.
+later this year will decide whether to join the 42 school network, offering a solid (no bootcamp) alternative to a bachelors in software engineering with the benefits that it's peer-to-peer-figure-it-out-by-reading-the-freaking-documentation style and i can change campuses. right now i still have a few reservations about certain details, but seems like a viable option since it's primarily self-directed (excl. structure and evaluation) i could continue the studies independently if necessary.
 
 </details>
 
