@@ -54,9 +54,9 @@ mid-degree i knew i didn't want to get the usual office job for which the only p
 
 so eventually enrolled in a 1-year academy and got a technical professional certificate in digital marketing and e-commerce management.
 
-at this time i was also getting more and more involved in understanding the crypto world, from a technical understanding to general dynamics and how to potentially profit from that inefficient and new industry - this would then gradually pay a lot as i became a bit more comfortable in numerous topics ranging from applied game theory in trading, market microstructure, financial design, systematic futures trading, 2nd and 3rd order derivative events, basic data analysis, etc.
+at this time i was also getting more and more involved in understanding the crypto world, from a technical understanding to general dynamics and how to potentially profit from that inefficient and new industry - this would then gradually pay a lot as i became a bit more comfortable in numerous topics ranging from applied game theory in trading, market microstructure, financial design, systematic futures trading, 2nd and 3rd order derivative events, basic data science, etc.
 
-right after the academy, still in college, got my first real job after some digital marketing freelancing work which included a part-time digital marketing bootcamp teacher position. so for that first job it was a remote digital marketing manager position in a singaporean VC-funded crypto company tackling web3 data infrastructure.
+right after the academy, still in college, got my first more "serious" job after some digital marketing freelancing work which included a part-time digital marketing bootcamp teacher position. so for that first job it was a remote digital marketing manager position in a singaporean VC-funded crypto company tackling web3 data infrastructure.
 
 at this point i realise there is no point in staying in my home country as i was getting paid remotely in crypto, therefore i hire an international tax law consulting firm and decided on an international structure that allowed me the most freedom, and treated me the best as a foreigner.
 
@@ -88,9 +88,9 @@ so here my startup ended, although it was a blue ocean in a very profitable serv
 
 but the material i got from the incubator was extremely practical and spot-on for more beginner founders, so definitely something i will go back to in times of need.
 
-in early 2024 my overall returns in crypto and VC at this point were comfortably profitable. i setup multiple residencies in countries that fit with my current international structure, i start getting interested in international real estate investing, 
+in Q1 2024 my overall returns in crypto and VC at this point were comfortably profitable. my international law structure becomes more complete, looking for countries that fit with it and i began getting interested in international real estate investing - i feel financially safe and locked in some profits.
 
-i end up deciding i already possess enough knowledge in the digital marketing space for any regular business and for any potential future personal ventures, that it would be a great complement if i could feel comfortable with practical computer science/software design/programming knowledge. why?
+career-wise, i end up deciding i already possess enough knowledge in the digital marketing space for any regular business and for any potential future personal ventures, that it would be a great complement if i could feel comfortable with practical computer science/software design/programming knowledge. why?
 
 - i may want to build software for my own needs
 - i may want to be able to accurately tell the quality of a software engineer or niche developer
@@ -100,7 +100,7 @@ i end up deciding i already possess enough knowledge in the digital marketing sp
 
 so that's where i'm at right now, working to become a truly rounded digital professional that has the capacity to successfully build and distribute, if need be.
 
-i understand i probably won't be at the top 10% skillset in almost all areas i will dedicate myself to because in software engineering there's always a group of people that have been programming for 15+ years, or a group of people typically in big tech companies that have been programming since they're 7, or a group of people that choose 1 frontend framework then learning the whole environment around that and that's their everyday job anyways.
+i understand i probably won't be at the top 10% skillset in almost all areas i will dedicate myself to because in software engineering there's always a group of people that have been programming for 15+ years, or a group of people typically in big tech companies that have been programming since they're 7, or a group of people that choose 1 frontend framework then learned the whole environment around that and that's their everyday job anyways.
 
 however, i know for a fact i'm improving myself and my skills. i'm gathering tools to increase my range of opportunity and the effects are clear - i feel more powerful everyday with the knowledge i implement. i can now build personal tools i couldn't in the past even with the help of top-tier AI coding agents. i can now try and explore data-driven edges in the cryptocurrency markets and building almost fully automated (harder to fully automate and not have any significant discretionary input for desired output prediction. typical arbitrage strats revolve around high frequency trading, which is not my focus) profitable trading strategies.
 
