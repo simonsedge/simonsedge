@@ -2,7 +2,7 @@
 
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
-🤝 Simon / Simão / Simón / Simone here.
+🧬 Simon / Simão / Simón / Simone here.
 
 - European-born (gen Z), slow-travel nomad (3-12 months/country) with an educational background in finance, later complemented by digital marketing & e-commerce management.
 - Goal is to keep on learning and stacking skills in a blend of computer and data science, with the solid computer science foundations - particularly interested in crypto algorithmic trading and artificial intelligence.
