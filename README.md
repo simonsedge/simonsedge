@@ -4,8 +4,9 @@
 
 🤝 Simon / Simão / Simón / Simone here.
 
-- 27-year-old European-born, slow-travel nomad (3-12 months/country) from a non-engineering background who keeps flirting with a blend of computer and data science.
-- Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2).
+- European-born (gen Z), slow-travel nomad (3-12 months/country) from a non-engineering background.
+- Goal is to simply keep on learning and stacking skills in a blend of computer and data science. 
+- Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2) if you think we got common interests/goals.
 
 ## hello galaxy
 
