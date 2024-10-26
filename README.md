@@ -11,7 +11,7 @@
 ## hello galaxy
 
 <details>
-   <summary>what were you doing when you were ]0, 27] years old? </summary>
+   <summary>what was i doing when i was ]0, 27] years old? </summary>
 
 ## 0-8 years old 
 
@@ -119,7 +119,7 @@ later this year will decide whether to join the 42 school network, offering a so
 ## hello universe
 
 <details>
-  <summary>what are you focused on right now? </summary>
+  <summary>what am i focused on right now? </summary>
 
 ## Business
 ## Engineering (Software/Financial)
