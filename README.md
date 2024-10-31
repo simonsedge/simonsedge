@@ -124,7 +124,8 @@ later this year will decide whether to join the 42 school network, offering a so
 ## Business
 ## Engineering (Software/Financial)
 - algorithmic trading applied in the cryptocurrency industry [personal need]
-- data structures and algorithms [general software engineering understanding]
+- computational thinking [general understanding]
+- data structures and algorithms [general understanding]
 - artificial intelligence and automation [personal need]
 ## Data Science
 - data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
