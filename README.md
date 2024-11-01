@@ -1,7 +1,7 @@
 ## hello world
 
 <details>
-  <summary>quick intro, reach out!</summary>
+  <summary>👋 quick intro, reach out!</summary>
 
 ## 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
@@ -14,7 +14,7 @@
 </details>
 
 <details>
-  <summary>what am i focused on right now? </summary>
+  <summary>💡 what am i focused on right now? </summary>
 
 ## Business
 ## Engineering (Software/Financial)
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-   <summary>what was i doing when i was ]0, 27] years old? </summary>
+   <summary>🔙 what was i doing when i was ]0, 27] years old? </summary>
 
 ## 0-8 years old 
 
