@@ -3,7 +3,7 @@
 <details>
   <summary>quick intro, reach out!</summary>
 
-👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
+## 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
 🧬 Simon / Simão / Simón / Simone here.
 
