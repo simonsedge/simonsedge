@@ -152,13 +152,6 @@ later this year will decide whether to join the 42 school network, offering a so
 - Statistics For Economics (Nova School of Business and Economics)
 - Data Analysis and Probability (Nova School of Business and Economics)
 
-## Social Sciences
-- Strategy (Nova School of Business and Economics)
-- Microeconomics (Nova School of Business and Economics)
-- Macroeconomics (Nova School of Business and Economics)
-- International Management (Berlin School of Law & Economics)
-- Organizational Behaviour (Nova School of Business and Economics)
-
 ## Applied Business
 - Communication Strategy & Consumer Behaviour (Berlin School of Law & Economics)
 - Entrepreneurship (Nova School of Business and Economics)
@@ -169,6 +162,13 @@ later this year will decide whether to join the 42 school network, offering a so
 - Paid Advertisement (FLAG Lisbon)
 - Google Analytics 4 (FLAG Lisbon)
 - E-mail Marketing (FLAG Lisbon)
+
+## Social Sciences
+- Strategy (Nova School of Business and Economics)
+- Microeconomics (Nova School of Business and Economics)
+- Macroeconomics (Nova School of Business and Economics)
+- International Management (Berlin School of Law & Economics)
+- Organizational Behaviour (Nova School of Business and Economics)
 - Google Paid Ads (FLAG Lisbon)
 - Web Copywriting (FLAG Lisbon)
   
