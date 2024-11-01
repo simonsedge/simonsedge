@@ -13,8 +13,6 @@
 
 </details>
 
-## hello galaxy
-
 <details>
   <summary>what am i focused on right now? </summary>
 
@@ -34,8 +32,6 @@
 - more xapo alternatives [personal need]
 
 </details>
-
-## hello universe
 
 <details>
    <summary>what was i doing when i was ]0, 27] years old? </summary>
