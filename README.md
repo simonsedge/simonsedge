@@ -11,6 +11,28 @@
 ## hello galaxy
 
 <details>
+  <summary>what am i focused on right now? </summary>
+
+## Business
+## Engineering (Software/Financial)
+- algorithmic trading applied in the cryptocurrency industry [personal need]
+- computational thinking [general understanding]
+- data structures and algorithms [general understanding]
+- artificial intelligence and automation [personal need]
+## Data Science
+- data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
+## Nation States
+- keep abreast of new pod eps to contribute to by building something useful [personal project]
+- go to the usual events, maybe even set some events on the usual group platforms, talk to some founders and see what valuable inputs can be extracted [personal project + network gain]
+## Geographical Arbitrage
+- finish the US CC setup [personal need]
+- more xapo alternatives [personal need]
+
+</details>
+
+## hello universe
+
+<details>
    <summary>what was i doing when i was ]0, 27] years old? </summary>
 
 ## 0-8 years old 
@@ -115,29 +137,6 @@ however, i know for a fact i'm improving myself and my skills. i'm gathering too
 later this year will decide whether to join the 42 school network, offering a solid (no bootcamp) alternative to a bachelors in software engineering with the benefits that it's peer-to-peer-figure-it-out-by-reading-the-freaking-documentation style and i can change campuses. right now i still have a few reservations about certain details, but seems like a viable option since it's primarily self-directed (excl. structure and evaluation) i could continue the studies independently if necessary.
 
 </details>
-
-## hello universe
-
-<details>
-  <summary>what am i focused on right now? </summary>
-
-## Business
-## Engineering (Software/Financial)
-- algorithmic trading applied in the cryptocurrency industry [personal need]
-- computational thinking [general understanding]
-- data structures and algorithms [general understanding]
-- artificial intelligence and automation [personal need]
-## Data Science
-- data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
-## Nation States
-- keep abreast of new pod eps to contribute to by building something useful [personal project]
-- go to the usual events, maybe even set some events on the usual group platforms, talk to some founders and see what valuable inputs can be extracted [personal project + network gain]
-## Geographical Arbitrage
-- finish the US CC setup [personal need]
-- more xapo alternatives [personal need]
-
-</details>
-
 <!---
 simonsedge/simonsedge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
