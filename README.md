@@ -141,7 +141,36 @@ later this year will decide whether to join the 42 school network, offering a so
 </details>
 
 <details>
-  <summary>🏆 my favourite educational curriculum subjects?</summary>
+  <summary>🏆 my favourite completed curriculum?</summary>
+
+## Mathematics
+- Calculus I (Nova School of Business and Economics)
+- Calculus II (Nova School of Business and Economics)
+- Linear Algebra (Nova School of Business and Economics)
+
+## Data Science
+- Data Analysis and Probability (Nova School of Business and Economics)
+- Statistics For Economics (Nova School of Business and Economics)
+
+## Social Sciences (excl. Marketing)
+- Finance + Macroeconomics + Microeconomics (Nova School of Business and Economics)
+- Communication Strategy & Consumer Behaviour (Berlin School of Law & Economics)
+- Organizational Behaviour (Nova School of Business and Economics)
+- International Management (Berlin School of Law & Economics)
+- Entrepreneurship (Nova School of Business and Economics)
+- Strategy (Nova School of Business and Economics)
+
+## Marketing
+- Twitter + Meta + Youtube Marketing (FLAG Lisbon)
+- Web Design & Landing Pages (FLAG Lisbon)
+- Search Engine Optimization (FLAG Lisbon)
+- Wordpress Development (FLAG Lisbon)
+- Paid Advertisement (FLAG Lisbon)
+- Google Analytics 4 (FLAG Lisbon)
+- E-mail Marketing (FLAG Lisbon)
+- Google Paid Ads (FLAG Lisbon)
+- Web Copywriting (FLAG Lisbon)
+  
 </details>
 
 <!---
