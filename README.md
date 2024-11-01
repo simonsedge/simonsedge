@@ -120,7 +120,7 @@ later this year will decide whether to join the 42 school network, offering a so
 </details>
 
 <details>
-  <summary>💡 what am i focused on right now? </summary>
+  <summary>🧩 what am i focused on right now? </summary>
 
 ## Business
 ## Engineering (Software/Financial)
@@ -139,6 +139,11 @@ later this year will decide whether to join the 42 school network, offering a so
 - more xapo alternatives [personal need]
 
 </details>
+
+<details>
+  <summary>🏆 my favourite educational curriculum subjects?</summary>
+</details>
+
 <!---
 simonsedge/simonsedge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
