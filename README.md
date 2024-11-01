@@ -4,7 +4,7 @@
 
 🧬 Simon / Simão / Simón / Simone here.
 
-- European-born (gen Z), slow-travel nomad (3-12 months/country) with an educational background in finance, later complemented by digital marketing & e-commerce management.
+- European-born (gen Z), slow-travel nomad (3-12 months/country) with an educational background in finance, complemented by digital marketing & e-commerce management.
 - Goal is to keep on learning and stacking skills in a blend of computer and data science - particularly interested in crypto algorithmic trading and artificial intelligence.
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2) if you think we could have common interests/goals.
 
