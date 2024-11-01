@@ -144,24 +144,24 @@ later this year will decide whether to join the 42 school network, offering a so
   <summary>🏆 my favourite completed curriculum</summary>
 
 ## Computational & Quantitative Sciences
+- Finance (Nova School of Business and Economics)
 - Calculus I (Nova School of Business and Economics)
-- Calculus II (Nova School of Business and Economics)
 - Computational Thinking (University of Pennsylvania)
+- Calculus II (Nova School of Business and Economics)
 - Linear Algebra (Nova School of Business and Economics)
 - Statistics For Economics (Nova School of Business and Economics)
 - Data Analysis and Probability (Nova School of Business and Economics)
 
-## Economic & Social Sciences
-- Finance (Nova School of Business and Economics)
+## Social Sciences
 - Strategy (Nova School of Business and Economics)
 - Microeconomics (Nova School of Business and Economics)
 - Macroeconomics (Nova School of Business and Economics)
-- Entrepreneurship (Nova School of Business and Economics)
 - International Management (Berlin School of Law & Economics)
 - Organizational Behaviour (Nova School of Business and Economics)
 
 ## Applied Business
 - Communication Strategy & Consumer Behaviour (Berlin School of Law & Economics)
+- Entrepreneurship (Nova School of Business and Economics)
 - Twitter + Meta + Youtube Marketing (FLAG Lisbon)
 - Web Design & Landing Pages (FLAG Lisbon)
 - Search Engine Optimization (FLAG Lisbon)
