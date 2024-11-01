@@ -1,7 +1,7 @@
 ## hello world
 
 <details>
-  <summary>what's my background and purpose? reach out!</summary>
+  <summary>quick intro, reach out!</summary>
 
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
