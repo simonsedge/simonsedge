@@ -141,7 +141,7 @@ later this year will decide whether to join the 42 school network, offering a so
 </details>
 
 <details>
-  <summary>🏆 my favourite completed curriculum?</summary>
+  <summary>🏆 my favourite completed curriculum</summary>
 
 ## Mathematics
 - Calculus I (Nova School of Business and Economics)
