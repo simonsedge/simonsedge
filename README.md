@@ -1,5 +1,8 @@
 ## hello world
 
+<details>
+  <summary>what's my background and purpose? reach out!</summary>
+
 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
 🧬 Simon / Simão / Simón / Simone here.
@@ -7,6 +10,8 @@
 - European-born (gen Z), slow-travel nomad (3-12 months/country) with an educational background in finance, complemented by digital marketing & e-commerce management.
 - Here to share thoughts/software about stacking skills in a blend of computer and data science - particularly interested in crypto algorithmic trading and artificial intelligence.
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2) if you think we could have common interests/goals.
+
+</details>
 
 ## hello galaxy
 
