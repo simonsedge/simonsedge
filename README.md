@@ -1,7 +1,7 @@
 ## hello world
 
 <details>
-  <summary>👋 quick intro, reach out!</summary>
+  <summary>👋 hiya</summary>
 
 ## 👋 Hi! ...ou oi! ...o holis! ...ou hé! ...o ehi!
 
