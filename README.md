@@ -11,28 +11,6 @@
 - Here to share thoughts/software about stacking skills in a blend of computer and data science - particularly interested in crypto algorithmic trading and artificial intelligence.
 - Reach out to me in English/Portuguese (C2), Spanish (B2), or French/Italian (A1-A2) if you think we could have common interests/goals.
 
-</details>
-
-<details>
-  <summary>💡 what am i focused on right now? </summary>
-
-## Business
-## Engineering (Software/Financial)
-- algorithmic trading applied in the cryptocurrency industry [personal need]
-- computational thinking [general understanding]
-- data structures and algorithms [general understanding]
-- artificial intelligence and automation [personal need]
-## Data Science
-- data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
-## Nation States
-- keep abreast of new pod eps to contribute to by building something useful [personal project]
-- go to the usual events, maybe even set some events on the usual group platforms, talk to some founders and see what valuable inputs can be extracted [personal project + network gain]
-## Geographical Arbitrage
-- finish the US CC setup [personal need]
-- more xapo alternatives [personal need]
-
-</details>
-
 <details>
    <summary>🔙 what was i doing when i was ]0, 27] years old? </summary>
 
@@ -136,6 +114,28 @@ i understand i probably won't be at the top 10% skillset in almost all areas i w
 however, i know for a fact i'm improving myself and my skills. i'm gathering tools to increase my range of opportunity and the effects are clear - i feel more powerful everyday with the knowledge i implement. i can now build personal tools i couldn't in the past even with the help of top-tier AI coding agents. i can now try and explore data-driven edges in the cryptocurrency markets and building almost fully automated (harder to fully automate and not have any significant discretionary input for desired output prediction. typical arbitrage strats revolve around high frequency trading, which is not my focus) profitable trading strategies.
 
 later this year will decide whether to join the 42 school network, offering a solid (no bootcamp) alternative to a bachelors in software engineering with the benefits that it's peer-to-peer-figure-it-out-by-reading-the-freaking-documentation style and i can change campuses. right now i still have a few reservations about certain details, but seems like a viable option since it's primarily self-directed (excl. structure and evaluation) i could continue the studies independently if necessary.
+
+</details>
+
+</details>
+
+<details>
+  <summary>💡 what am i focused on right now? </summary>
+
+## Business
+## Engineering (Software/Financial)
+- algorithmic trading applied in the cryptocurrency industry [personal need]
+- computational thinking [general understanding]
+- data structures and algorithms [general understanding]
+- artificial intelligence and automation [personal need]
+## Data Science
+- data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
+## Nation States
+- keep abreast of new pod eps to contribute to by building something useful [personal project]
+- go to the usual events, maybe even set some events on the usual group platforms, talk to some founders and see what valuable inputs can be extracted [personal project + network gain]
+## Geographical Arbitrage
+- finish the US CC setup [personal need]
+- more xapo alternatives [personal need]
 
 </details>
 <!---
