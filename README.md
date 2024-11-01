@@ -3,7 +3,7 @@
 <details>
   <summary>👋 hiya</summary>
 
-## 👋 Simon / Simão / Simón / Simone here
+## 🤝 Simon / Simão / Simón / Simone
 
 - European-born (gen Z), slow-travel nomad (3-12 months/country) with a background in applied business.
 - Here to share thoughts/software about stacking skills in a blend of computer and data science - particularly interested in crypto algorithmic trading and artificial intelligence.
