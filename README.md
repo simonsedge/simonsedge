@@ -164,14 +164,13 @@ later this year will decide whether to join the 42 school network, offering a so
 - E-mail Marketing (FLAG Lisbon)
 
 ## Social Sciences
+- Google Paid Ads (FLAG Lisbon)
+- Web Copywriting (FLAG Lisbon)
 - Strategy (Nova School of Business and Economics)
 - Microeconomics (Nova School of Business and Economics)
 - Macroeconomics (Nova School of Business and Economics)
 - International Management (Berlin School of Law & Economics)
-- Organizational Behaviour (Nova School of Business and Economics)
-- Google Paid Ads (FLAG Lisbon)
-- Web Copywriting (FLAG Lisbon)
-  
+- Organizational Behaviour (Nova School of Business and Economics)  
 </details>
 
 <!---
