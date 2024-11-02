@@ -151,6 +151,8 @@ later this year will decide whether to join the 42 school network, offering a so
 - Data Analysis and Probability (Nova School of Business and Economics)
 
 ## Applied Business
+- Google Ads (FLAG Lisbon)
+- Web Copywriting (FLAG Lisbon)
 - E-mail Marketing (FLAG Lisbon)
 - Google Analytics 4 (FLAG Lisbon)
 - Paid Advertisement (FLAG Lisbon)
@@ -162,8 +164,6 @@ later this year will decide whether to join the 42 school network, offering a so
 - Communication Strategy & Consumer Behaviour (Berlin School of Law & Economics)
 
 ## Social Sciences
-- Google Paid Ads (FLAG Lisbon)
-- Web Copywriting (FLAG Lisbon)
 - Strategy (Nova School of Business and Economics)
 - Microeconomics (Nova School of Business and Economics)
 - Macroeconomics (Nova School of Business and Economics)
