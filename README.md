@@ -144,11 +144,11 @@ later this year will decide whether to join the 42 school network, offering a so
 ## Computational & Quantitative Sciences
 - Finance (Nova School of Business and Economics)
 - Calculus I (Nova School of Business and Economics)
-- Computational Thinking (University of Pennsylvania)
 - Calculus II (Nova School of Business and Economics)
 - Linear Algebra (Nova School of Business and Economics)
 - Statistics For Economics (Nova School of Business and Economics)
 - Data Analysis and Probability (Nova School of Business and Economics)
+- Computational Thinking (University of Pennsylvania + University of Michigan)
 
 ## Applied Business
 - Google Ads (FLAG Lisbon)
