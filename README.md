@@ -120,7 +120,6 @@ later this year will decide whether to join the 42 school network, offering a so
 <details>
   <summary>🧩 what am i focused on right now? </summary>
 
-## Business
 ## Engineering (Software/Financial)
 - algorithmic trading applied in the cryptocurrency industry [personal need]
 - computational thinking [general understanding]
@@ -135,6 +134,7 @@ later this year will decide whether to join the 42 school network, offering a so
 ## Geographical Arbitrage
 - finish the US CC setup [personal need]
 - more xapo alternatives [personal need]
+## Business
 
 </details>
 
