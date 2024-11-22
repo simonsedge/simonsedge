@@ -125,7 +125,7 @@ later this year will decide whether to join the 42 school network, offering a so
 - computational thinking [general understanding]
 - data structures and algorithms [general understanding]
 - artificial intelligence and automation [personal need]
-- start contributing to open source/reverse engineer an open source superstar [personal need]
+- start contributing to open source/reverse engineer an open source sprtstar [personal need]
 ## Data Science
 - data analysis, ML, and DL applied in the cryptocurrency industry [personal investment portfolio]
 ## Nation States
