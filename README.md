@@ -1,6 +1,3 @@
-## hello world
-
-<details>
   <summary>👋 hiya</summary>
 
 ## 🤝 Simon / Simão / Simón / Simone
